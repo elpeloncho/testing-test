@@ -4,6 +4,7 @@ from src.config import (
     MOCK_API_KEY,
     MOCK_DATABASE_PASSWORD,
     MOCK_ADMIN_PASSWORD,
+    MOCK_CONFIG_VERSION,
 )
 
 

@@ -4,6 +4,7 @@ Contains synthetic placeholder configuration and dummy endpoint definitions.
 """
 
 # Synthetic dummy credentials for testing SAST/security scanners
+MOCK_CONFIG_VERSION = "1.0.1"
 MOCK_API_KEY = "dummy_fake_api_key_for_testing_12345"
 MOCK_SERVER_URL = "https://api.example.com/v1/ping"
 MOCK_DATABASE_PASSWORD = "HardcodedSuperSecretPassword123!"
